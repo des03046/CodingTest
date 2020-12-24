@@ -16,3 +16,4 @@ public class RectangularEscape {
 		System.out.println(arr[0]);
 	}
 }
+//https://www.acmicpc.net/problem/1085
