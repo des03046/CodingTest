@@ -14,4 +14,4 @@ public class Factorial {
 		} else
 			return solution(n - 1) * n;
 	}
-}
+}//https://www.acmicpc.net/problem/10872
