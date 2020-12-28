@@ -28,4 +28,4 @@ public class SieveOfEratosthenes {
 		}
 	}
 }
-
+//https://www.acmicpc.net/problem/1929
