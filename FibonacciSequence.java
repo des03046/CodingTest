@@ -16,4 +16,4 @@ public class FibonacciSequence {
 		} else
 			return solution(n - 1) + solution(n - 2);
 	}
-}
+}//https://www.acmicpc.net/problem/10870
